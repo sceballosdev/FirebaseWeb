@@ -1,0 +1,9 @@
+node_modules
+ConfigFirebase.js
+dist
+package-lock.json
+
+.firebase
+functions/node_modules
+functions/package.json
+functions/package-lock.json
